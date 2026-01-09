@@ -3,16 +3,36 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/image.jpeg
 ---
 
 :::{#me}
 
 ## Goals
+Decoding biology with codes.
 
 ## Education
+Faculty of Medicine, Al-Azhar University, Cairo, Egypt
 
 ## Experience
+* +40 Publications
+
+* Experienced in medical writing
+
+* Scientific Critical appraisal and Evidence appraisal with GRADE
+
+* 100 Peer Review in +20 Journals
+
+* Omics (Transcriptomics, Epigenomics& Proteomics at the bulk and single cell levels) analysis using R & Python
+
+* Dealing with big data 
+
+* Building and deploying machine learning and deep learning models
+
+* Creating automated and reproducible pipelines with Snakemake and Docker
+
+* Visual Presentation of the findings using Adobe Photoshop, Illustrator& Biorender
+
 
 :::
 
